@@ -2,7 +2,7 @@
 
 
 
-My personal portfolio project, built as part of my capstone.
+My personal portfolio website showcasing my web development projects, built as part of my B.Tech capstone. Includes examples of semantic HTML, responsive layouts, and vanilla JavaScript projects.
 
 
 
